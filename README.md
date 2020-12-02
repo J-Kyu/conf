@@ -39,7 +39,7 @@
        HASS:
            type: hass
            ha_url: http://192.168.137.110:8123
-           token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI3OWZhZThkOGFmY2Q0YjZiYjQ0NzE3M2YzZWUyMzU5ZSIsImlhdCI6MTYwNjAxNzM0OSwiZXhwIjoxOTIxMzc3MzQ5fQ.4rcPn4brC0APGfZhmJyaPNaSAltErRHXVX1anUuJzL0  
+           token: <fill-with-HASS-token>
    
    http:
      url: http://192.168.137.110:5050
